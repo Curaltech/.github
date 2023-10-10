@@ -25,6 +25,7 @@ Welcome to the TechBeets GitHub organization! 🚀 We are a team passionate abou
 Have questions, ideas, or just want to connect? Reach out to us:
 
 - **LinkedIn:** [Jose Henrique Roveda](https://www.linkedin.com/in/jhroveda)
-- **LinkedIn:** [JFabiano Gonçalves dos Santos](https://www.linkedin.com/in/fabianogsantos)
+  
+- **LinkedIn:** [Fabiano Gonçalves dos Santos](https://www.linkedin.com/in/fabianogsantos)
 
 Thanks for being part of the TechBeets journey! 🎉
