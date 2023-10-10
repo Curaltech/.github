@@ -1,7 +1,7 @@
 # TechBeets Data Projects
 
 <div align="center">
-  <img src="assets/cover.jfif" alt="Cover", width=400px>
+  <img src="https://github.com/TechBeets/.github/blob/main/profile/assets/cover.jfif" alt="Cover", width=400px>
 </div>
 
 
