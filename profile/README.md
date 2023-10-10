@@ -1,5 +1,10 @@
 # TechBeets Data Projects
 
+<div align="center">
+  <img src="assets/cover.jfif" alt="Cover", width=400px>
+</div>
+
+
 Welcome to the TechBeets GitHub organization! 🚀 We are a team passionate about data and committed to delivering innovative projects.
 
 ## Team Members
