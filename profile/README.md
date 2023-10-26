@@ -1,4 +1,4 @@
-# TechBeets Data Projects
+# Tech Mí Data Projects
 
 <div align="center">
   <img src="https://github.com/TechBeets/.github/blob/main/profile/assets/dev.jfif" alt="Cover", width=400px>
