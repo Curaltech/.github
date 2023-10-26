@@ -5,7 +5,7 @@
 </div>
 
 
-Welcome to the TechBeets GitHub organization! 🚀 We are a team passionate about data and committed to delivering innovative projects.
+Welcome to the Tech Mí GitHub organization! 🚀 We are a team passionate about data and committed to delivering innovative projects.
 
 ## Team Members
 
