@@ -16,7 +16,7 @@ Welcome to the Curaltech GitHub organization! 🚀 We are a team passionate abou
 
 - **Fabiano**
   - *Role:* Data Engineer
-  - *GitHub Profile:* [fabianogsantos](https://github.com/fabianogsantos)
+  - *GitHub Profile:* [fabianogsantos](https://github.com/fabianogs)
   - *Bio:* Specialist in data engineering and data warehousing, business intelligence, software development and software architecture.
 
 
