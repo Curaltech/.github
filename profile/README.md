@@ -12,7 +12,7 @@ Welcome to the Curaltech GitHub organization! 🚀 We are a team passionate abou
 - **Jose**
   - *Role:* Data Scientist
   - *GitHub Profile:* [josehenriqueroveda](https://github.com/josehenriqueroveda)
-  - *Bio:* Enthusiastic about exploring the hidden patterns in data and turning them into actionable insights. Data, Python and Cyber Security enthusiast.
+  - *Bio:* Enthusiastic about exploring the hidden patterns in data and turning them into actionable insights.
 
 - **Fabiano**
   - *Role:* Data Engineer
